@@ -1,0 +1,20 @@
+{
+  "name": "mobile-app",
+  "version": "1.0.0",
+  "description": "Mobile Store",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Vengatesh rkv",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-joi-validation": "^0.2.1",
+    "filter-values": "^0.4.1",
+    "ignore-case": "^0.1.0",
+    "jade": "^1.11.0",
+    "joi": "^13.1.2"
+  }
+}

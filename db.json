@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "productName": "mobile",
+        "price": 16999,
+        "inTheBox": "Charger, User Manual",
+        "modelNumber": "ERA-2V2",
+        "size": "5 inch",
+        "category": "accessories",
+        "color": "white",
+        "touchScreen": "no",
+        "image": "http://localhost:4000/images/mobile.jpeg"
+    },
+    {
+        "id": "2",
+        "productName": "charger",
+        "price": 6999,
+        "inTheBox": "Charger, User Manual",
+        "modelNumber": "ERA-2V2",
+        "size": "5.5 inch",
+        "category": "accessories",
+        "color": "white",
+        "touchScreen": "no",
+        "image": "http://localhost:4000/images/mobile.jpeg"
+    },
+    {
+        "id": 4,
+        "productName": "movere1",
+        "price": "59991",
+        "inTheBox": "Handset, Battery, Charger, User Manual, Headset, Screen Guard",
+        "modelNumber": "ERA-2V",
+        "size": "5 inch",
+        "category": "mobile",
+        "color": "black",
+        "touchScreen": "yes",
+        "image": "http://localhost:4000/images/mobile.jpeg"
+    },
+    {
+        "id": 5,
+        "productName": "mobile",
+        "price": "5999",
+        "inTheBox": "Handset, Battery, Charger, User Manual, Headset, Screen Guard",
+        "modelNumber": "ERA-2V",
+        "size": "5 inch",
+        "category": "mobile",
+        "color": "black",
+        "touchScreen": "yes",
+        "image": "http://localhost:4000/images/mobile.jpeg"
+    },
+    {
+        "id": 6,
+        "productName": "mobile",
+        "price": "5999",
+        "inTheBox": "Handset, Battery, Charger, User Manual, Headset, Screen Guard",
+        "modelNumber": "ERA-2V",
+        "size": "5 inch",
+        "category": "mobile",
+        "color": "black",
+        "touchScreen": "yes",
+        "image": "http://localhost:4000/images/mobile.jpeg"
+    }
+]
