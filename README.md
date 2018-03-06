@@ -1,9 +1,11 @@
 # Mobile Application
 
-Running Locally
+## Running Locally
+
 ...sh
 $ Usage Install dependencies npm i 
 $ Start application npm start
+...
 
 Functionalities
 
