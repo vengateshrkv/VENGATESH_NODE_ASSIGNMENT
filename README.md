@@ -1,6 +1,7 @@
 # Project - Mobile Application
 
 Running Locally
+...sh
 $ Usage Install dependencies npm i 
 $ Start application npm start
 
