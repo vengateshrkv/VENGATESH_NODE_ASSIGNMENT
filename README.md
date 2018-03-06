@@ -2,10 +2,10 @@
 
 ## Running Locally
 
-...sh
-$ Usage Install dependencies npm i 
-$ Start application npm start
-...
+```sh
+$ npm i 
+$ npm start
+```
 
 Functionalities
 
