@@ -1,4 +1,4 @@
-# Project - Mobile Application
+# Mobile Application
 
 Running Locally
 ...sh
